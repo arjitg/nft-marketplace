@@ -1,0 +1,57 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "Team108DBContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "Models",
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "TestReverseEngineer",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[tabCustomer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tabItem]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tabOrder]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tabOrderLineItem]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tabReview]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "BusCISSQL1901\\CISWEB.Team108DB",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
