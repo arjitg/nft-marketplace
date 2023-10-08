@@ -3,7 +3,7 @@
 
 This is a web app that replicates NFT behavior using a fingerprinting algorithm to list, buy and sell unique images.
 
-#### What is an NFT:
+#### What is a NFT:
 ```A non-fungible token (NFT) is a unique digital identifier that is recorded on a blockchain, and is used to certify ownership and authenticity. It cannot be copied, substituted, or subdivided.```
 [Source](https://en.wikipedia.org/wiki/Non-fungible_token)
 
